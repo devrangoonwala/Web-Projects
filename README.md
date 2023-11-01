@@ -1,2 +1,2 @@
-# Documenting Web Development Journey from Beginner to Expert
+# Web Development from Beginner to Expert
 
